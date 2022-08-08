@@ -1,7 +1,7 @@
 <?php
   ?>
 <?php include_once "encabezado.php"; ?>
-<script src="https://cdn.tiny.cloud/1/wc7826d94l1swoitws17wlq02h8thlk5orj0fj9ikbswnekr/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<script src="https://cdn.tiny.cloud/1/wc7826d94l1swoitws17wlq02h8thlk5orj0fj9ikbvbswnefgkr/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
     <script> /* poner el codigo de tu cuenta */
         
 tinymce.init({
